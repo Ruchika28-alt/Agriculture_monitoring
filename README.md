@@ -38,7 +38,7 @@ seaborn
 scikit-learn
 joblib
 ```
-##🚀 Installation
+## 🚀 Installation
 
 ```bash
 git clone https://github.com/your-username/Agricultural_Monitoring_usnig_ML.git
@@ -46,20 +46,20 @@ cd CapstoneProject
 pip install -r requirements.txt
 ```
 
-##🧪Usage
+## 🧪Usage
 
-### Basic Usage
+### 🔹Basic Usage
 
 ```python
 python AgriculturalMonitoring.py --file finaldataset.xlsx --output results
 ```
 
-### Parameters
+### 🔹Parameters
 
 - `--file`: Path to your Excel weather data file
 - `--output`: Directory to save output visualizations and models (optional)
 
-###📂 Input Data Format
+### 📂 Input Data Format
 
 The script expects an Excel file with the following columns:
 - Date
@@ -70,7 +70,7 @@ The script expects an Excel file with the following columns:
 - Pressure (Max, Avg, Min)
 - Precipitation Total
 
-##📊 Example Output
+## 📊 Example Output
 
 The script generates:
 1. Model performance visualizations
@@ -96,6 +96,6 @@ The script generates:
 🔗 [LinkedIn: Ruchika Kale](https://www.linkedin.com/in/ruchika-kale-19ab17256/)
 
 
-##📄 License
+## 📄 License
 
 [MIT License](LICENSE)

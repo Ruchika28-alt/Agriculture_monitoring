@@ -38,7 +38,7 @@ seaborn
 scikit-learn
 joblib
 ```
-## Installation
+##🚀 Installation
 
 ```bash
 git clone https://github.com/your-username/Agricultural_Monitoring_usnig_ML.git
@@ -46,7 +46,7 @@ cd CapstoneProject
 pip install -r requirements.txt
 ```
 
-## Usage
+##🧪Usage
 
 ### Basic Usage
 
@@ -59,7 +59,7 @@ python AgriculturalMonitoring.py --file finaldataset.xlsx --output results
 - `--file`: Path to your Excel weather data file
 - `--output`: Directory to save output visualizations and models (optional)
 
-### Input Data Format
+###📂 Input Data Format
 
 The script expects an Excel file with the following columns:
 - Date
@@ -70,7 +70,7 @@ The script expects an Excel file with the following columns:
 - Pressure (Max, Avg, Min)
 - Precipitation Total
 
-## Example Output
+##📊 Example Output
 
 The script generates:
 1. Model performance visualizations
@@ -78,14 +78,24 @@ The script generates:
 3. Prediction vs actual comparisons
 4. Saved ML models for temperature and humidity prediction
 
-## Agricultural Applications
+## 🌱 Agricultural Applications
+-💧 Irrigation scheduling using forecast confidence
 
-- Irrigation scheduling with confidence intervals
-- Frost protection planning
-- Optimal crop spraying timing
-- Disease prevention based on humidity forecasts
-- Risk assessment for planting and harvesting
+-🧊 Frost protection planning
 
-## License
+-🌿 Optimal crop spraying timing
+
+-🦠 Disease prevention via humidity insights
+
+-🌾 Risk assessment for planting & harvesting
+
+## 👩‍💻 Author
+
+**Ruchika Kale**  
+🔗 [GitHub: Ruchika28-alt](https://github.com/Ruchika28-alt)  
+🔗 [LinkedIn: Ruchika Kale](https://www.linkedin.com/in/ruchika-kale-19ab17256/)
+
+
+##📄 License
 
 [MIT License](LICENSE)
